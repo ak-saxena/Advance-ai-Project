@@ -143,7 +143,7 @@ CLIP v2 refines the setup for **imbalance** and **generalization**. Highlights f
 
 ## License and attribution
 
-Use of the **Fakeddit** dataset is subject to its original license and terms. Cite the Fakeddit paper when using this benchmark. Model checkpoints and code here are for research and education unless you add your own license file.
+Use of the **Fakeddit** dataset is subject to its original license and terms. 
 
 ---
 
