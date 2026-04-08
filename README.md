@@ -1,5 +1,6 @@
 # Multimodal Fake News Detection on Fakeddit with BERT, ResNet, ViT and CLIP
 
+[![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 
 This repository contains our Advanced AI project for multimodal fake news detection on the Fakeddit dataset.
 
