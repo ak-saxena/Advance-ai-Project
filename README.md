@@ -13,7 +13,8 @@ The project implements and compares three multimodal architectures that jointly 
 A Streamlit demo app lets you load trained weights and classify new (headline, image) pairs into six Fakeddit-style labels.
 
 # For Training and Implementation please Refer to README inside the folder
-[![Training and Implemenatation Documents](https://github.com/ak-saxena/Multimodal-Fake-News-Classification-on-Fakeddit/blob/main/Fake-News-Multimodal-Classification/README.md)]
+[![Training and Implemenatation Documents](https://github.com/ak-saxena/Multimodal-Fake-News-Classification-on-Fakeddit/blob/main/Fake-News-Multimodal-Classification/README.md)](https://github.com/ak-saxena/Multimodal-Fake-News-Classification-on-Fakeddit/blob/main/Fake-News-Multimodal-Classification/README.md)
+
 ---
 # Project Overview
 
